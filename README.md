@@ -16,7 +16,6 @@ ADSP/
 │   ├── Hasil Cluster DBSCAN Setelah Definisi.png
 │   ├── Rata-rata Kepadatan Penduduk.png
 │   ├── DBSCAN Muara Enim.png
-│   └── (REVISI) Laporan_Tugas_Besar_Kelompok04_RA.docx.pdf
 │── Code_Tugas Besar_Kelompok04_RA.ipynb   # Notebook utama (implementasi DBSCAN)
 │── README.md                      # Dokumentasi proyek
 ```
