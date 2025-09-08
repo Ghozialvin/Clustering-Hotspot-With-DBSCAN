@@ -1,19 +1,6 @@
 # Analisis Kepadatan Penduduk Muara Enim Menggunakan Algoritma DBSCAN pada Data Spasial
 
 ## 📌 Deskripsi
-Proyek ini merupakan implementasi algoritma **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** untuk menganalisis **kepadatan penduduk Kabupaten Muara Enim** berbasis data spasial.  
-Hasil clustering divisualisasikan dalam bentuk peta dan grafik untuk mengidentifikasi wilayah dengan kepadatan penduduk **rendah, sedang,** dan **noise**.
-
-## 📂 Struktur Folder
-ADSPSip 👍 saya bantu buatkan **README.md** yang rapi untuk repository GitHub kamu berdasarkan struktur folder dan hasil penelitian yang sudah ada.
-
-Berikut contoh isi README:
-
----
-
-# Analisis Kepadatan Penduduk Muara Enim Menggunakan Algoritma DBSCAN pada Data Spasial
-
-## 📌 Deskripsi
 
 Proyek ini merupakan implementasi algoritma **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** untuk menganalisis **kepadatan penduduk Kabupaten Muara Enim** berbasis data spasial.
 Hasil clustering divisualisasikan dalam bentuk peta dan grafik untuk mengidentifikasi wilayah dengan kepadatan penduduk **rendah, sedang,** dan **noise**.
